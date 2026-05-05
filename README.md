@@ -1,82 +1,95 @@
-![banner](banner.gif)
+![banner](banner.png)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](YOUR_GITHUB)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](YOUR_FACEBOOK)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/tan-duong302003)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YOUR_USERNAME)
 
-# Hey there! 👋 I'm Duong Nhut Tan
+# Hey there! 👋 I'm Tan Duong
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+Developer;PHP+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;PHP+Laravel+Developer;ERP+System+Builder;Always+Learning" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with around **1–2 years of experience**, focusing on building scalable web applications using modern technologies.
+I'm a **Software Engineer** with 2+ years of experience building **ERP systems and web applications** for real-world business operations.
 
-- 🔭 Currently working with **Angular, PHP, MySQL**
-- 💻 Experience in **real-world product development**
-- 🌱 Improving **Data Structures & Algorithms**
-- 🎯 Goal: Become a strong **Full Stack Engineer**
-- 📫 Reach me: **YOUR_EMAIL**
+- 💼 Currently working at **Tedfast** (Backend-focused)
+- 🔧 Strong in **PHP (Laravel), MySQL, RESTful APIs**
+- 🏢 Built systems used in **multi-branch environments (21+ branches)**
+- ⚙️ Experienced in **Linux VPS deployment (LAMP stack)**
+- 🤖 Using **AI tools (Cursor, ChatGPT)** to improve productivity and code quality
+- 🎯 Goal: Become a strong **Backend / Fullstack Engineer (System Design level)**
+- 📫 Reach me: **tanduong969@gmail.com**
 
 ---
 
 ## 💼 What I Do
 
-### 👨‍💻 Full Stack Development
-- Build and maintain **web applications**
-- Develop **RESTful APIs**
-- Work with both **Frontend & Backend systems**
-- Optimize performance and scalability
+### 🧠 Backend & System Development
+- Build scalable backend systems using **Laravel (MVC)**
+- Design and develop **RESTful APIs**
+- Handle **business logic & system architecture**
+- Optimize **database performance (MySQL)**
 
-### ⚡ Frontend (Angular Focus)
-- Develop UI using **Angular + TypeScript**
-- Convert UI/UX designs into responsive interfaces
-- Reusable components & clean architecture
+### 🏢 Enterprise Systems (ERP)
+- Develop and maintain **ERP systems for real business workflows**
+- Work with **multi-branch data and operations**
+- Focus on **scalability, performance, and maintainability**
 
-### 🛠 Backend (PHP)
-- Develop backend using **PHP (MVC structure)**
-- Work with **MySQL database**
-- API integration and business logic handling
+### ⚙️ Deployment & Operations
+- Deploy and maintain systems on **Linux VPS**
+- Configure domain, environment, and production systems
+- Ensure system **stability and reliability**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🚀 Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Backend & Database
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge)
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Frontend (Supporting)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 Main Projects
+### 🏢 Enterprise ERP System (Multi-branch)
+- Built and maintained ERP systems for business operations
+- Developed backend using **Laravel + MySQL**
+- Designed APIs and handled complex business workflows
+- 📊 Deployed system serving **21+ branches**
 
-- 🔗 **Project Name 1**
-  - Description ngắn gọn (VD: Web quản lý người dùng, CRUD, phân quyền)
-  - Tech: Angular, PHP, MySQL
+---
 
-- 🔗 **Project Name 2**
-  - Description (VD: Landing page / dashboard / internal tool)
-  - Tech: Angular, REST API
+### 🤖 AI-Powered Multilingual CMS
+- Built CMS platform with **AI translation (Vietnamese ↔ English)**
+- Backend: Laravel (RESTful API)
+- AI service: FastAPI + M2M100
+- Deployed on Linux with **Cloudflare Tunnel**
+
+---
+
+## ⚡ Engineering Mindset
+
+- Focus on **real-world systems, not just demo projects**
+- Prioritize **clean code, performance, and scalability**
+- Use **AI-assisted development (Cursor, ChatGPT)** effectively
+- Always learning and improving in **system design & backend architecture**
 
 ---
 
@@ -95,12 +108,12 @@ I'm a **Full Stack Developer** with around **1–2 years of experience**, focusi
 ## 🤝 Let's Connect!
 
 I'm open to:
-- 💼 Full-time opportunities (Angular / PHP / Fullstack)
-- 🤝 Freelance projects
-- 📚 Learning & collaboration
+- 💼 Backend / PHP / Laravel opportunities
+- 🚀 ERP / SaaS / System-based projects
+- 🤝 Collaboration & learning
 
 ---
 
 <div align="center">
-  <i>“Focus on building real products, not just writing code.”</i>
+  <i>“Build systems that solve real problems at scale.”</i>
 </div>
