@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](YOUR_GITHUB)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](YOUR_FACEBOOK)
 
-# Hey there! 👋 I'm Tan Duong
+# Hey there! 👋 I'm Duong Nhut Tan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+Developer;PHP+Developer;Always+Learning" />
