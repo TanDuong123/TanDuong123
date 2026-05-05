@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](banner.gif)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](YOUR_GITHUB)
